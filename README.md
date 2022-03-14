@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Me chamo Gustavo Alcântara e tenho 27 anos. Atualmente moro em Santa Bárbara d'Oeste, no estado de São Paulo. Sou formado em Geografia pela PUCCampinas e estudo Demografia na Universidade Estadual de Campinas, a Unicamp. 
+Me chamo Gustavo Alcântara e tenho 28 anos. Atualmente moro em Santa Bárbara d'Oeste, no estado de São Paulo. Sou formado em Geografia pela PUCCampinas e estudo Demografia na Universidade Estadual de Campinas, a Unicamp. 
 
 Desde o ínicio da minha graduação tenho muito interesse em análise de dados, principalmente populacionais e espaciais. Assim, tenho expieriências no 1º e 3º setor (público e ONG's) na correção, distribuição e análise de dados atráves de softwares Open Source. 
 
