@@ -1,4 +1,4 @@
-### Olá! 👋
+### Hello There! I'm Gustavo Alcântara 
 
 Me chamo Gustavo Alcântara e tenho 28 anos. Sou formado em Geografia pela PUCCampinas e sou mestrando em Demografia na Unicamp. Também sou Analista de Dados na [Base dos dados](https://basedosdados.org/)
 
