@@ -1,16 +1,23 @@
 ### Hello There! I'm Gustavo Alcântara 
 
-Me chamo Gustavo Alcântara e tenho 28 anos. Sou formado em Geografia pela PUCCampinas e sou mestrando em Demografia na Unicamp. Também sou Analista de Dados na [Base dos dados](https://basedosdados.org/)
+<h3>Experiences</h3>
+<ul>
+<li><em>Data Analyst I at <a href="https://basedosdados.org/">basedosdados.org</a></em> (Mar 2022 – Present).<br /></li>
+<li><em>Researcher at <a href="https://www.nepo.unicamp.br/">Unicamp</a></em> (Mar. 2021 – Present).<br /></li>
+<li><em>Professor of Programming and Robotics at SESI São Paulo</em> (Aug. 2019 – Mar. 2022).<br /></li>
+<li><em>Technical Assistance of Social Project at <a href="https://feac.org.br/">FEAC Foundation</a></em> (Jul. 2018 – Aug. 2019).<br /></li>
+<li><em>Intern of Geospatial Data Infrastructure at <a href="http://geoinfo.cnps.embrapa.br/">Embrapa</a></em> (Jul. 2015 – Jul. 2017).<br /></li>
+<li><em>Volunteer of <a href="http://biotupe.org/site/">Projeto Biotupé</a> in Amazon Rainforest</em> (Mar. 2016 – Aug. 2016).<br /></li>
+</ul>
+</p>
+  
 
-Desde o ínicio da minha graduação tenho muito interesse em análise de dados, principalmente populacionais e espaciais. Assim, tenho expieriências no 1º e 3º setor (público e ONG's) na correção, distribuição e análise de dados atráves de softwares Open Source. 
+<h3>Portfolio</h3>
+<li><em><a href="https://github.com/gustavoalcantara/data-porfolio">Acess</a></em><br /></li>
 
-Tenho experiência com QGis, R, Rstudio e Jupyter Notebook. 
+</ul>
+</p>
 
-Se meu perfil te interessou, por favor, visite meu linkedin ou escreva-me um e-mail. Também deixei meu número de telefone à disposição.  
-
-Muito obrigado. 
-
-Nos vemos. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalcantara)](https://github.com/gustavoalcantara/github-readme-stats)
 
