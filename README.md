@@ -5,10 +5,8 @@
 <li><em>Data Analyst at <a href="https://tucca.org/">tucca.org</a></em> (Dec 2023 – Present).<br /></li>
 <li><em>Data Analyst I at <a href="https://basedosdados.org/">basedosdados.org</a></em> (Mar 2022 – Dec 2023).<br /></li>
 <li><em>Researcher at <a href="https://www.nepo.unicamp.br/">Unicamp</a></em> (Mar. 2021 – Present).<br /></li>
-<li><em>Professor of Programming and Robotics at SESI São Paulo</em> (Aug. 2019 – Mar. 2022).<br /></li>
 <li><em>Technical Assistance of Social Project at <a href="https://feac.org.br/">FEAC Foundation</a></em> (Jul. 2018 – Aug. 2019).<br /></li>
 <li><em>Intern of Geospatial Data Infrastructure at <a href="http://geoinfo.cnps.embrapa.br/">Embrapa</a></em> (Jul. 2015 – Jul. 2017).<br /></li>
-<li><em>Volunteer of <a href="http://biotupe.org/site/">Projeto Biotupé</a> in Amazon Rainforest</em> (Mar. 2016 – Aug. 2016).<br /></li>
 </ul>
 </p>
   
