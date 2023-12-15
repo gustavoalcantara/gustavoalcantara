@@ -3,6 +3,7 @@
 <h3>Experiences</h3>
 <ul>
 <li><em>Data Analyst at <a href="https://tucca.org/">tucca.org</a></em> (Dec 2023 – Present).<br /></li>
+<li><em>Data Specialist Consultant at <a href="https://wwf.org/">wwf.org</a></em> (Jul 2023 – Dec 2023).<br /></li>
 <li><em>Data Analyst I at <a href="https://basedosdados.org/">basedosdados.org</a></em> (Mar 2022 – Dec 2023).<br /></li>
 <li><em>Researcher at <a href="https://www.nepo.unicamp.br/">Unicamp</a></em> (Mar. 2021 – Present).<br /></li>
 <li><em>Technical Assistance of Social Project at <a href="https://feac.org.br/">FEAC Foundation</a></em> (Jul. 2018 – Aug. 2019).<br /></li>
